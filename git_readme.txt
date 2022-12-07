@@ -89,7 +89,7 @@ git log -2 --pretty=oneline
 %h 提交的简写哈希值	%an 作者名字	%ar 作者修订日期	%s 提交说明
 git log -2 --pretty=format:" %h | %an | %ar | %s "
 
-回退指定版本
+回退指定版本【版本回溯】
 git reset --hard ID
 在旧版本中使用git reflog --pretty=online  查看全提交历史
 
