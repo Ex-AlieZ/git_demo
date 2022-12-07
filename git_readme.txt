@@ -25,9 +25,9 @@ git status --short
 查看本地库
 ll
 
-创建文件
+创建/打开文件
 vim hellow.txt
-【yy是复制	p是粘贴		:wq保存】
+【i修改内容	yy是复制	p是粘贴		:wq保存】
 
 查看文件内容
 cat hellow.txt
