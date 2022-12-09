@@ -11,4 +11,3 @@ hello,world
 hello,world	master666
 hello,world	hot_fix666
 hello,world	hot_fix123
->>>>>>> hot-fix
